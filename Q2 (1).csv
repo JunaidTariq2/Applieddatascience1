@@ -1,0 +1,34 @@
+state,deaths,cause of death
+Texas,78,natural
+Texas,95,accident
+Texas,191,murdered
+Ohio,61,natural
+Ohio,4,accident
+Ohio,2,murdered
+California,10,natural
+California,31,accident
+California,30,murdered
+Florida,5,natural
+Florida,25,accident
+Florida,22,murdered
+New Jersey,65,natural
+New Jersey,13,accident
+New Jersey,10,murdered
+Missouri,50,natural
+Missouri,70,accident
+Missouri,159,murdered
+North Carolina,10,natural
+North Carolina,50,accident
+North Carolina,23,murdered
+Arizona,10,natural
+Arizona,30,accident
+Arizona,16,murdered
+Virginia Beach,1,natural
+Virginia Beach,40,accident
+Virginia Beach,19,murdered
+Kansas,15,natural
+Kansas,25,accident
+Kansas,27,murdered
+Michigan,30,natural
+Michigan,40,accident
+Michigan,298,murdered
